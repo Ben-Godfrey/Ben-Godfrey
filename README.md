@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ben-Godfrey
-- 👀 I’m interested in ... damn near everything 
+
 - 🌱 I’m currently learning ... Mcomp Artificial Intelligece & Computer Science at the University of Sheffield
 - 💞️ I’m looking to collaborate on ... any intersting open source projects
 - 📫 How to reach me ... via email at bengodfrey117@gmail.com
